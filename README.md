@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rajakumaran-tech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Rajakumaran
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Databricks & different warehouses
+- 💞️ I’m looking to collaborate on ?
+- 📫 How to reach me ->Don't reach me
 
 <!---
 Rajakumaran-tech/Rajakumaran-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
