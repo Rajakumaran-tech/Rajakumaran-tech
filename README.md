@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajakumaran
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Databricks & different warehouses
+- 🌱 I’m currently learning Databricks & LLM(Large Language Model)
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me ->Don't reach me
 
